@@ -58,7 +58,7 @@ c. PCA implementation using SVD
 
 d. Reconstructing approximate representation of data using reduced dimension
 
-**Anamoly detection and Recommender System:**
+**Anomaly detection and Recommender System:**
 
 a. Selecting threshold for Gaussian Distribution
 
